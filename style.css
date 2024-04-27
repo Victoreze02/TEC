@@ -223,6 +223,14 @@ hero section */
 /* table ends */
 
 /* GTBank Icon */
+.GTBank A{
+  
+    width: 45px;
+    height: 35px;
+    /* border-radius: 50%; */
+    object-fit: cover;
+    object-position: center;
+}
 
 .GTBank{
   
